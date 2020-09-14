@@ -1,1 +1,2 @@
 Branch is master here and you are on master.
+Now you are on another branch.
