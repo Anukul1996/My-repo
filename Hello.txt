@@ -1,1 +1,2 @@
 This is not a master branch
+Now this is bugfix branch and now i know how to use git.
